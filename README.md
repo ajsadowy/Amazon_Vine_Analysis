@@ -6,6 +6,7 @@ From the 50 datasets to choose from I picked the Electronics category to analyze
 
 
 ## Results   
+![Pic](https://github.com/ajsadowy/Amazon_Vine_Analysis/blob/main/images/Final_Results.png)   
 From the data set we see following:   
 * that the ratio of Vine members : Non-Vine members is close to 1:50 (1080:49659),   
 * the same ratio is applied to 5 star reviews that were given by both (454:23034),   
